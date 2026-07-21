@@ -94,11 +94,7 @@ The dashboard's core feature: a live-filterable table of every High and Critical
 
 ## How I'd Approach This for a Client
 
-This is basically how I'd work with any real client. I don't just jump into building charts — first I figure out what decision they're actually trying to make. Here it was simple: who's likely to leave, and what should we do about it?
-
-That's why I didn't stop at guessing the risk score formula — I checked whether it actually matched who left the company before using it anywhere. And every chart in this dashboard is there because it answers a real question, not just because it looked good.
-
-If you've got a similar problem — employee data, customer data, anything where you need real answers instead of just numbers — feel free to reach out.
+This is how I'd work with any real client — figure out the actual decision they need to make first, not just build charts. Here it was simple: who's likely to leave, and what should HR do about it? So I tested the risk score against real outcomes before trusting it, and every chart earns its place by answering a real question. If you've got similar data — employee, customer, anything — and need real answers, not just numbers, feel free to reach out.
 
 ---
 
